@@ -4,9 +4,7 @@
 
 District 7, Ho Chi Minh City, Vietnam
 
-+84 941 78 56 37 | btdat2506@outlook.com
-
-[linkedin.com/in/btdat2506](https://linkedin.com/in/btdat2506) | [github.com/btdat2506](https://github.com/btdat2506) | [orcid.org/0009-0001-7686-7263](https://orcid.org/0009-0001-7686-7263)
++84 941 78 56 37 
 
 #### Email
 btdat2506@outlook.com

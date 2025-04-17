@@ -109,4 +109,21 @@ section .main-body{
     }
 }
 
+/* Floating PDF Button Styles */
+.floating-pdf-button {
+    position: fixed; /* Position relative to the viewport */
+    bottom: 20px;    /* Distance from the bottom */
+    right: 20px;     /* Distance from the right */
+    z-index: 1030;   /* Ensure it's above most other content */
+    padding: 0.8rem 1.5rem; /* Adjust padding as needed */
+    font-size: 1rem;      /* Adjust font size as needed */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional shadow */
+    transition: all 0.3s ease; /* Smooth transition for hover */
+}
+
+.floating-pdf-button:hover {
+    transform: scale(1.05); /* Slightly enlarge on hover */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3); /* Enhance shadow on hover */
+}
+
 
