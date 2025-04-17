@@ -1,9 +1,5 @@
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q.Niu . LaNCoR: Label Noise-Contrastive Robust Learning for Seismic Signal Processing with Application to Microseismic Arrival Time Picking. <strong>In Revision.</strong> [[Code]](https://github.com/senli1073/LaNCor)
-
-
 - Nguyen, NH., Dang, TP., **Bui, TD.**, Hoang, TT., Pham, CK., Huynh, HT. (2024). Designing and Implementing a 2D Integer DCT Hardware Accelerator Fully Compatible with Versatile Video Coding. In: Gervasi, O., Murgante, B., Garau, C., Taniar, D., C. Rocha, A.M.A., Faginas Lago, M.N. (eds) Computational Science and Its Applications – ICCSA 2024 Workshops. ICCSA 2024. Lecture Notes in Computer Science, vol 14815. Springer, Cham. [[Paper]](https://doi.org/10.1007/978-3-031-65154-0_7)
 
 - Nguyen, NH., Dang, TP., Tran, TK., **Bui, TD.**, Hoang, TT. and Huynh, HT., "A Configurable 2D-Integer DCT Hardware Accelerator Compatible with H.266 Standard based on RISC-V Architecture," 2024 7th International Seminar on Research of Information Technology and Intelligent Systems (ISRITI), Yogyakarta, Indonesia, 2024, pp. 894-899, [[Paper]](doi: 10.1109/ISRITI64779.2024.10963564).
 
 - Huynh, TMT., Tran, TK., **Bui, TD.**, Pham, CK., & Huynh, HT. (2025). An Efficient Algorithm Compatible with Low-performance Hardware for AI Edge Devices in Arrhythmia Prediction. Presented at the 5th International Conference on Intelligent Systems & Networks (ICISN 2025), March 22, 2025.
-
