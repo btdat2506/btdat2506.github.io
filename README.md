@@ -1,5 +1,3 @@
-
-
 ![Github Forks](https://img.shields.io/github/forks/senli1073/senli1073.github.io?style=flat)
 ![Github Stars](https://img.shields.io/github/stars/senli1073/senli1073.github.io?style=flat)
 ![License](https://img.shields.io/github/license/senli1073/senli1073.github.io)
@@ -51,7 +49,7 @@ The directory structure is as follows:
 
 (4) Replace background image and photo with new ones for your web pages in `static/assets/img/`
 
-(5) Push it: 
+(5) Push it:
 ```
 git commit -am 'init'
 git push
@@ -62,6 +60,9 @@ git push
 
 Fire up a browser and go to `https://<username>.github.io`
 
+## Acknowledgements
+- Template design based on the beautiful work by [senli1073](https://github.com/senli1073/senli1073.github.io).
+- Background photo by [Caitlin Barnes](https://unsplash.com/@caitlinbarnes) on [Unsplash](https://unsplash.com/photos/aerial-view-of-city-buildings-during-daytime-R4jc8h0Lob8).
 
 
 ## License
