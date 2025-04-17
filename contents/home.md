@@ -1,4 +1,4 @@
-[![btdat2506](https://img.shields.io/badge/btdat2506-linkedin-0077B5?logo=linkedin)](https://linkedin.com/in/btdat2506)
+[![btdat2506](https://custom-icon-badges.demolab.com/badge/btdat2506-linkedin-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/btdat2506)
 [![btdat2506](https://img.shields.io/badge/btdat2506-github-181717?logo=github)](https://github.com/btdat2506)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0001--7686--7263-A6CE39?logo=orcid)](https://orcid.org/0009-0001-7686-7263)
 

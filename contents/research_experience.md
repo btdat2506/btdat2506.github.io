@@ -1,4 +1,3 @@
-#### Research Experience
 **Undergraduate Research Student | Computer Embedded Systems Laboratory (CESLAB), HCMUS-VNUHCM | 2022 – Present**
 
 Advisor: Dr. Huu Thuan Huynh (hhthuan@hcmus.edu.vn)

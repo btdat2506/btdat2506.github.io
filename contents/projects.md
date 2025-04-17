@@ -1,5 +1,3 @@
-#### Relevant Projects
-
 **Design and Integration of a Custom DMA Controller on FPGA in a Nios V/m SoC System | Internship Project & Report, CESLAB | Jan 2025 - Apr 2025**
 - Designed a custom Direct Memory Access (DMA) controller with Avalon-MM Master (Read/Write) and Slave (Control/Status) interfaces using Verilog.
 - Integrated the DMA controller into a Nios V/m based System-on-Chip using Intel Platform Designer.
